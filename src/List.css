@@ -1,0 +1,22 @@
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    width: 180px;
+    height: 20px;
+    border: 1px solid rgba(9, 32, 21, 0.938);
+    border-radius: 2px;
+    padding: 10px;
+    background: rgb(196, 233, 229);
+}
+
+.item p{
+    margin: 0;
+    font-family: "fantasy";
+}
+.item button{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
